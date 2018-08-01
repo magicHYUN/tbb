@@ -1,0 +1,21 @@
+a,ul,ol,p,dl,dd,dt,li,table,h1,h2,h3,h4,span,div,tr,td,img,.iconfont,body{padding: 0;margin:0;}
+a{text-decoration: none;cursor: pointer;}
+a:hover{text-decoration: underline;color: #ff5000 !important;}
+li{list-style: none}
+img{border: 0}
+button,input,select,textarea{font-size:100%}button{border-radius:0}
+body,button,input,select,textarea{font:12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif}
+h1,h2,h3,h4{font-size: 100%}
+sup{vertical-align:text-top}sub{vertical-align:text-bottom}
+table{border-collapse:collapse;border-spacing:0}
+.clearfix::before,.clearfix::after{content: "";line-height: 0;display: block;visibility: hidden;clear: both;}
+.clearfix{zoom: 1}
+.fl{float: left}
+.fr{float: right}
+div{box-sizing: border-box}
+.wrap{width:100%;}
+.w{width:1190px;margin:0 auto;}
+.iconfont{display: inline-block;position: relative}
+button,input{border: none;outline-style: none;}
+
+
